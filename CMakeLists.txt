@@ -71,6 +71,6 @@ create_plugin(
     SOURCE_LIB      MSM
     PLUGIN_NAME     MSM
     PLUGIN_JSON     ${SOURCE_DIR}/plugin.json
-    SOURCE_ASSETS   ${SOURCE_DIR}/res
+    SOURCE_ASSETS   ${CMAKE_CURRENT_LIST_DIR}/assets
     DESTINATION     ${CMAKE_CURRENT_LIST_DIR}/metamodule-plugins
 ) 
