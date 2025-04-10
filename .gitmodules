@@ -1,0 +1,3 @@
+[submodule "MSM-vcvrack-plugin"]
+	path = MSM-vcvrack-plugin
+	url = https://github.com/Ericxgao/MSM-vcvrack-plugin

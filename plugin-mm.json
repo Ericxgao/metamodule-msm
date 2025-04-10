@@ -1,0 +1,12 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-msm",
+    "MetaModuleDescription": "MSM for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "MSM",
+            "name": "MSM"
+        }
+    ]
+}
